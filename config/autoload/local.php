@@ -12,4 +12,8 @@
  */
 
 return array(
+    'db' => array(
+        'username' => 'hoge',
+        'password' => 'YOUR PASSWORD HERE',
+    ),
 );
